@@ -16,12 +16,12 @@ My production in the course "Programming Practice-1" using c++ and Qt
 
 ## 2. 游戏介绍
 
-- 主界面：游戏的主界面，可通过按钮登录用户名、开始游戏、更换皮肤和查看排行榜![image-20220914224947934](C:\Users\Lucas Wang\AppData\Roaming\Typora\typora-user-images\image-20220914224947934.png)
-- 难度选择：一共有简单、普通、苦难和自定义四个难度可供选择![image-20220914225521994](C:\Users\Lucas Wang\AppData\Roaming\Typora\typora-user-images\image-20220914225521994.png)
+- 主界面：游戏的主界面，可通过按钮登录用户名、开始游戏、更换皮肤和查看排行榜![image-20220914224947934](https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914224947934.png)
+- 难度选择：一共有简单、普通、苦难和自定义四个难度可供选择![image-20220914225521994]((https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914225521994.png)
 
-- 更换皮肤：一共有默认、黑金和晴空三种皮肤可任意切换![image-20220914225831510](C:\Users\Lucas Wang\AppData\Roaming\Typora\typora-user-images\image-20220914225831510.png)
+- 更换皮肤：一共有默认、黑金和晴空三种皮肤可任意切换![image-20220914225831510](https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914225831510.png)
 
-- 排行榜：分别对三种游戏难度进行游戏胜利时长的排行，并记录到rank.dat文件里（**注意必须点击退出按钮才能保存游戏记录，关闭窗口则无法保存**）![image-20220914230102272](C:\Users\Lucas Wang\AppData\Roaming\Typora\typora-user-images\image-20220914230102272.png)
+- 排行榜：分别对三种游戏难度进行游戏胜利时长的排行，并记录到rank.dat文件里（**注意必须点击退出按钮才能保存游戏记录，关闭窗口则无法保存**）![image-20220914230102272](https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914230102272.png)
 
 ## 3. 总结
 
@@ -29,4 +29,4 @@ My production in the course "Programming Practice-1" using c++ and Qt
 
 本项目的代码量和类都很少，因为界面设计都通过ui designer来完成，最后呈现出来的效果还挺让我满意的，另外也正是因为类少，我认为游戏的主体逻辑还是比较清晰的，各位想写扫雷项目的话可以进行参考，但是更换皮肤和排行榜功能都糅杂在mainwindow.cpp/ui里面了，因为时间太短来不及设计整体框架了，各位在实现这些功能的时候可以将代码模块化一下，可能会更便于阅读、debug和修改。
 
-嗯，就是这样，我还上传了exe的压缩包，感兴趣的话可以下载进行游玩，可以的话请给个star吧！
+嗯，就是这样，另外我还上传了exe的压缩包，感兴趣的话可以下载进行游玩，可以的话请给个star吧！

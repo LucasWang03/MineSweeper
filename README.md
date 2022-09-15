@@ -17,7 +17,7 @@ My production in the course "Programming Practice-1" using c++ and Qt
 ## 2. 游戏介绍
 
 - 主界面：游戏的主界面，可通过按钮登录用户名、开始游戏、更换皮肤和查看排行榜![image-20220914224947934](https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914224947934.png)
-- 难度选择：一共有简单、普通、苦难和自定义四个难度可供选择![image-20220914225521994]((https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914225521994.png)
+- 难度选择：一共有简单、普通、苦难和自定义四个难度可供选择![image-20220914225521994](https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914225521994.png)
 
 - 更换皮肤：一共有默认、黑金和晴空三种皮肤可任意切换![image-20220914225831510](https://github.com/LucasWang03/MineSweeper/blob/main/img/image-20220914225831510.png)
 

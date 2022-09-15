@@ -1,4 +1,4 @@
-# MineSweeper
+# MineSweeper扫雷
 My production in the course "Programming Practice-1" using c++ and Qt
 
 ## 0. 声明
